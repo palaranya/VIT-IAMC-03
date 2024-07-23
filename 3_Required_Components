@@ -1,0 +1,15 @@
+Hardware Components:
+Microcontroller: Arduino Uno
+Ultrasonic Sensor: HC-SR04
+Active Buzzer: For audible alert
+LED: For visual indication
+Resistor: To limit current to the LED
+Jumper Wires: For connections
+Breadboard: For prototyping
+Power Supply: Computer USB Port
+Water Tank: For testing purposes
+
+Software Components:
+
+IDE: Arduino IDE (for Arduino-based projects)
+Programming Language: C++ (Arduino language)
