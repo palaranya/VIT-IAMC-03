@@ -1,14 +1,31 @@
+
 Focus: Develop a microcontroller-based prototype to detect elevated sludge levels in a water tank and alert the user.
+
 System Inputs: Ultrasonic sensor readings to measure water level.
+
 System Outputs: Visual and audible alert (LED, buzzer).
+
 Limitations: Prototype will be designed for a single tank and assumes a static tank environment.
+
+
+
 Solution Aims
+
 Accurately measure water level and calculate sludge level based on tank height.
+
 Reliably detect when sludge level exceeds a predefined threshold.
 Provide clear and timely alerts to the user.
+
 Demonstrate proof of concept for a more comprehensive water tank management system.
+
+
+
 Constraints and Limitations
+
 Hardware Limitations: The chosen microcontroller and sensors may have limitations in terms of accuracy, processing power, and memory.
+
 Environmental Factors: The system's performance may be affected by water temperature, turbidity, and sensor fouling.
+
 Prototype Scope: This project focuses on the core functionality of sludge level detection and alerting. Additional features (e.g., data logging, remote monitoring) are out of scope.
+
 Power Consumption: The system should be designed to minimize power consumption for potential battery operation.
