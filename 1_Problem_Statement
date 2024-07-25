@@ -1,2 +1,20 @@
-Household water tanks can accumulate sludge over time, compromising water quality. Manual cleaning relies on user awareness, which can be unreliable.
-We need a system to automatically detect elevated sludge levels and alert users to clean the tank for safe and healthy water consumption.
+Problem or challenge:
+
+* Inefficient and unreliable monitoring of water tank sludge levels.
+* Potential health risks due to contaminated water from sludge buildup.
+* Time-consuming and labor-intensive manual cleaning processes.
+
+Context and significance:
+
+* Water is a vital resource, and ensuring its quality is crucial for public health and well-being.
+* Sludge accumulation in water tanks is a common issue that affects households, communities, and industries.
+* Effective water tank management is essential for preventing water-borne diseases and optimizing water usage.
+
+Existing solutions or approaches and limitations:
+
+* Manual inspection: This method is time-consuming, labor-intensive, and prone to human error.
+* Water quality testing: While essential for determining water purity, it does not directly measure sludge levels.
+* Professional tank cleaning services: These can be expensive and require scheduling, leading to potential delays.
+
+These existing approaches often fail to provide real-time monitoring, early warning systems, or automated solutions to the problem of sludge buildup.
+ 
